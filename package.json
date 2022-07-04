@@ -1,0 +1,23 @@
+{
+  "name": "create-react-component-template",
+  "version": "1.0.1",
+  "description": "基于react的npm组件模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create-react-component",
+    "react-component-template",
+    "component-template",
+    "react-template"
+  ],
+  "author": "rhys.zhao",
+  "license": "ISC",
+  "bin": {
+    "create-react-component-template": "bin.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
